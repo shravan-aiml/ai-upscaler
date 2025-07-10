@@ -1,0 +1,20 @@
+# Core libraries
+numpy>=1.23.0
+Pillow>=9.0.0
+opencv-python>=4.5.5
+tqdm>=4.64.0
+
+# Deep learning framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image utilities
+scikit-image>=0.19.0
+matplotlib>=3.5.0
+
+# For downloading pretrained models
+gdown>=4.7.1
+requests>=2.28.0
+
+# (Optional) For saving/loading ESRGAN weights
+PyYAML>=6.0
