@@ -16,3 +16,5 @@ img = cv2.imread('C:\\Users\\dhruv\\Downloads\\test_case.jpg', cv2.IMREAD_UNCHAN
 output, _ = upsampler.enhance(img, outscale=4)
 
 cv2.imwrite(r'C:\Users\dhruv\OneDrive\Desktop\PROJECTS\Project 3.0\Real-ESRGAN\upscaler\Output\output.jpg', output)
+
+#helloo
